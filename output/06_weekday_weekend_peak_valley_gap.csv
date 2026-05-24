@@ -1,0 +1,3 @@
+day_type,number_of_days,avg_daily_peak_mwh,avg_daily_valley_mwh,avg_peak_valley_gap_mwh,max_peak_valley_gap_mwh
+Weekend,8,38877.50,24455.25,14422.25,16825.00
+Weekday,23,39512.09,25872.26,13639.83,17243.00
