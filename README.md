@@ -76,7 +76,9 @@ Future work could extend the analysis by:
 
 ## Project Report
 
-The full written report is available in the `report` folder.
+The full written report is available here:
+
+[Full Project Report](report/SQL_Electricity_Project_Report_Final.pdf).
 
 ## Author
 
