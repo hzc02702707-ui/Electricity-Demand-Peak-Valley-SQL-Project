@@ -1,0 +1,5 @@
+# Treat SQL scripts as the main project language
+SQL/*.sql linguist-language=SQL
+
+# Exclude Python helper scripts from language statistics
+Python/*.py linguist-detectable=false
