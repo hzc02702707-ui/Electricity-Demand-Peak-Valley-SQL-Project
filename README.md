@@ -80,6 +80,16 @@ The full written report is available here:
 
 [Full Project Report](report/SQL_Electricity_Project_Report_Final.pdf).
 
+## Reproducibility
+
+The project can be reproduced through the following workflow:
+
+1. Download CAISO hourly electricity data from the EIA API using the Python script in the `python` folder.
+2. Clean column names and prepare the CSV file for MySQL import.
+3. Import the cleaned CSV file into MySQL Workbench.
+4. Run the SQL scripts in numerical order from `00` to `07`.
+5. Export the result tables and generate charts for reporting.
+
 ## Author
 
 Haozhe Chen (Eric)
